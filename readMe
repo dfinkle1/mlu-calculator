@@ -1,0 +1,16 @@
+# Morpheme Calculator
+
+The Morpheme Calculator is a simple Python program that allows you to count the number of morphemes in a provided paragraph and divide it by utterances. A morpheme is the smallest meaningful unit of a word, including roots, prefixes, and suffixes. For example, the word "reusable" can be broken down into the following morphemes: "re-use-able".
+An Utterance is a bit harder to understand but essentially it is the breaks in a paragraph. Typically represented by ".","?","!".
+
+This was inspired by a speech language pathologist student. A student came to me and asked if it was possible to create a program that will help count morphemes for them. While this program is not 100% accurate it does help alleviate the stress of counting individual morphemes.
+
+It is important to note that any user needs to be mindful of where their sentence breaks are. As it is vital for calulation. However, this program will count morphemes and display that stat for those who want to divide on their own.
+
+## Requirements
+
+- Python 3.x (tested on Python 3.6 and higher)
+
+## How to Use
+
+1. Make sure you have Python 3.x installed on your system.
